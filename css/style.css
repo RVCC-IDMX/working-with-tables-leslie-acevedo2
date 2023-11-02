@@ -1,9 +1,11 @@
-
+body {
+    background: https://t4.ftcdn.net/jpg/01/19/69/41/360_F_119694109_61lkidNbuPInVycheCt7MDaHDFOdeNya.jpg;
+}
 
 h1 {
-    text-align: center;
+    text-align:center;
 }
 h3 {
-    text-align: center;
-    color: red;
+    text-align:center;
+    color:red;
 }
