@@ -1,5 +1,4 @@
-text/css {
-body {
+#table-container {
     background:green;
 }
 
@@ -9,5 +8,4 @@ h1 {
 h3 {
     text-align:center;
     color:red;
-}
 }
